@@ -9,10 +9,10 @@ This project predicts Formula 1 drivers' race finishing positions using historic
 
 
 
-## 📥 Data Source
+## 📁 Data Source
 [Kaggle F1 Dataset](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020). Place CSVs in the `data/` folder.
 
-## 🚀 Setup
+## 🛠️ Setup
 
 ```bash```
 pip install -r requirements.txt
