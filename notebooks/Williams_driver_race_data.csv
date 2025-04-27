@@ -1,0 +1,324 @@
+year,round,raceId,race_name,circuit_name,driverId,driver_name,constructorId,constructor_name,grid,position,positionOrder,milliseconds,points,status
+2015,1,926,Australian Grand Prix,Albert Park Grand Prix Circuit,832,Carlos Sainz,5,Toro Rosso,7,9,9,\N,2.0,+1 Lap
+2015,2,927,Malaysian Grand Prix,Sepang International Circuit,832,Carlos Sainz,5,Toro Rosso,15,8,8,\N,4.0,+1 Lap
+2015,3,928,Chinese Grand Prix,Shanghai International Circuit,832,Carlos Sainz,5,Toro Rosso,14,13,13,\N,0.0,+1 Lap
+2015,4,929,Bahrain Grand Prix,Bahrain International Circuit,832,Carlos Sainz,5,Toro Rosso,9,\N,19,\N,0.0,Engine
+2015,5,930,Spanish Grand Prix,Circuit de Barcelona-Catalunya,832,Carlos Sainz,5,Toro Rosso,5,9,9,\N,2.0,+1 Lap
+2015,6,931,Monaco Grand Prix,Circuit de Monaco,832,Carlos Sainz,5,Toro Rosso,0,10,10,6583476,1.0,Finished
+2015,7,932,Canadian Grand Prix,Circuit Gilles Villeneuve,832,Carlos Sainz,5,Toro Rosso,11,12,12,\N,0.0,+1 Lap
+2015,8,933,Austrian Grand Prix,Red Bull Ring,832,Carlos Sainz,5,Toro Rosso,12,\N,16,\N,0.0,Power loss
+2015,9,934,British Grand Prix,Silverstone Circuit,832,Carlos Sainz,5,Toro Rosso,8,\N,14,\N,0.0,Electrical
+2015,10,936,Hungarian Grand Prix,Hungaroring,832,Carlos Sainz,5,Toro Rosso,12,\N,17,\N,0.0,Electrical
+2015,11,937,Belgian Grand Prix,Circuit de Spa-Francorchamps,832,Carlos Sainz,5,Toro Rosso,10,\N,17,\N,0.0,Power Unit
+2015,12,938,Italian Grand Prix,Autodromo Nazionale di Monza,832,Carlos Sainz,5,Toro Rosso,17,11,11,\N,0.0,+1 Lap
+2015,13,939,Singapore Grand Prix,Marina Bay Street Circuit,832,Carlos Sainz,5,Toro Rosso,14,9,9,7334978,2.0,Finished
+2015,14,940,Japanese Grand Prix,Suzuka Circuit,832,Carlos Sainz,5,Toro Rosso,10,10,10,\N,1.0,+1 Lap
+2015,15,941,Russian Grand Prix,Sochi Autodrom,832,Carlos Sainz,5,Toro Rosso,20,\N,16,\N,0.0,Brakes
+2015,16,942,United States Grand Prix,Circuit of the Americas,832,Carlos Sainz,5,Toro Rosso,20,7,7,6683322,6.0,Finished
+2015,17,943,Mexican Grand Prix,Autódromo Hermanos Rodríguez,832,Carlos Sainz,5,Toro Rosso,11,13,13,6203810,0.0,Finished
+2015,18,944,Brazilian Grand Prix,Autódromo José Carlos Pace,832,Carlos Sainz,5,Toro Rosso,10,\N,19,\N,0.0,Retired
+2015,19,945,Abu Dhabi Grand Prix,Yas Marina Circuit,832,Carlos Sainz,5,Toro Rosso,10,11,11,6013700,0.0,Finished
+2016,1,948,Australian Grand Prix,Albert Park Grand Prix Circuit,832,Carlos Sainz,5,Toro Rosso,7,9,9,6571245,2.0,Finished
+2016,2,949,Bahrain Grand Prix,Bahrain International Circuit,832,Carlos Sainz,5,Toro Rosso,11,\N,18,\N,0.0,Retired
+2016,3,950,Chinese Grand Prix,Shanghai International Circuit,832,Carlos Sainz,5,Toro Rosso,8,9,9,6018018,2.0,Finished
+2016,4,951,Russian Grand Prix,Sochi Autodrom,832,Carlos Sainz,5,Toro Rosso,11,12,12,\N,0.0,+1 Lap
+2016,5,952,Spanish Grand Prix,Circuit de Barcelona-Catalunya,832,Carlos Sainz,5,Toro Rosso,8,6,6,6161412,8.0,Finished
+2016,6,953,Monaco Grand Prix,Circuit de Monaco,832,Carlos Sainz,5,Toro Rosso,6,8,8,\N,4.0,+1 Lap
+2016,7,954,Canadian Grand Prix,Circuit Gilles Villeneuve,832,Carlos Sainz,5,Toro Rosso,20,9,9,\N,2.0,+1 Lap
+2016,8,955,European Grand Prix,Baku City Circuit,832,Carlos Sainz,5,Toro Rosso,18,\N,21,\N,0.0,Suspension
+2016,9,956,Austrian Grand Prix,Red Bull Ring,832,Carlos Sainz,5,Toro Rosso,15,8,8,5305507,4.0,Finished
+2016,10,957,British Grand Prix,Silverstone Circuit,832,Carlos Sainz,5,Toro Rosso,7,8,8,5781689,4.0,Finished
+2016,11,958,Hungarian Grand Prix,Hungaroring,832,Carlos Sainz,5,Toro Rosso,6,8,8,\N,4.0,+1 Lap
+2016,12,959,German Grand Prix,Hockenheimring,832,Carlos Sainz,5,Toro Rosso,15,14,14,\N,0.0,+1 Lap
+2016,13,960,Belgian Grand Prix,Circuit de Spa-Francorchamps,832,Carlos Sainz,5,Toro Rosso,14,\N,20,\N,0.0,Puncture
+2016,14,961,Italian Grand Prix,Autodromo Nazionale di Monza,832,Carlos Sainz,5,Toro Rosso,15,15,15,\N,0.0,+1 Lap
+2016,15,962,Singapore Grand Prix,Marina Bay Street Circuit,832,Carlos Sainz,5,Toro Rosso,6,14,14,\N,0.0,+1 Lap
+2016,16,963,Malaysian Grand Prix,Sepang International Circuit,832,Carlos Sainz,5,Toro Rosso,16,11,11,5931654,0.0,Finished
+2016,17,964,Japanese Grand Prix,Suzuka Circuit,832,Carlos Sainz,5,Toro Rosso,14,17,17,\N,0.0,+1 Lap
+2016,18,965,United States Grand Prix,Circuit of the Americas,832,Carlos Sainz,5,Toro Rosso,10,6,6,5988742,8.0,Finished
+2016,19,966,Mexican Grand Prix,Autódromo Hermanos Rodríguez,832,Carlos Sainz,5,Toro Rosso,10,16,16,\N,0.0,+1 Lap
+2016,20,967,Brazilian Grand Prix,Autódromo José Carlos Pace,832,Carlos Sainz,5,Toro Rosso,15,6,6,10890495,8.0,Finished
+2016,21,968,Abu Dhabi Grand Prix,Yas Marina Circuit,832,Carlos Sainz,5,Toro Rosso,21,\N,18,\N,0.0,Collision damage
+2017,1,969,Australian Grand Prix,Albert Park Grand Prix Circuit,832,Carlos Sainz,5,Toro Rosso,8,8,8,\N,4.0,+1 Lap
+2017,2,970,Chinese Grand Prix,Shanghai International Circuit,832,Carlos Sainz,5,Toro Rosso,11,7,7,5929051,6.0,Finished
+2017,3,971,Bahrain Grand Prix,Bahrain International Circuit,832,Carlos Sainz,5,Toro Rosso,16,\N,16,\N,0.0,Collision
+2017,4,972,Russian Grand Prix,Sochi Autodrom,832,Carlos Sainz,5,Toro Rosso,14,10,10,\N,1.0,+1 Lap
+2017,5,973,Spanish Grand Prix,Circuit de Barcelona-Catalunya,832,Carlos Sainz,5,Toro Rosso,12,7,7,\N,6.0,+1 Lap
+2017,6,974,Monaco Grand Prix,Circuit de Monaco,832,Carlos Sainz,5,Toro Rosso,6,6,6,6296378,8.0,Finished
+2017,7,975,Canadian Grand Prix,Circuit Gilles Villeneuve,832,Carlos Sainz,5,Toro Rosso,13,\N,20,\N,0.0,Collision
+2017,8,976,Azerbaijan Grand Prix,Baku City Circuit,832,Carlos Sainz,5,Toro Rosso,15,8,8,7484973,4.0,Finished
+2017,9,977,Austrian Grand Prix,Red Bull Ring,832,Carlos Sainz,5,Toro Rosso,10,\N,17,\N,0.0,Engine
+2017,10,978,British Grand Prix,Silverstone Circuit,832,Carlos Sainz,5,Toro Rosso,13,\N,19,\N,0.0,Collision damage
+2017,11,979,Hungarian Grand Prix,Hungaroring,832,Carlos Sainz,5,Toro Rosso,9,7,7,\N,6.0,+1 Lap
+2017,12,980,Belgian Grand Prix,Circuit de Spa-Francorchamps,832,Carlos Sainz,5,Toro Rosso,13,10,10,5122267,1.0,Finished
+2017,13,981,Italian Grand Prix,Autodromo Nazionale di Monza,832,Carlos Sainz,5,Toro Rosso,15,14,14,\N,0.0,+1 Lap
+2017,14,982,Singapore Grand Prix,Marina Bay Street Circuit,832,Carlos Sainz,5,Toro Rosso,10,4,4,7426366,12.0,Finished
+2017,15,983,Malaysian Grand Prix,Sepang International Circuit,832,Carlos Sainz,5,Toro Rosso,14,\N,19,\N,0.0,Engine
+2017,16,984,Japanese Grand Prix,Suzuka Circuit,832,Carlos Sainz,5,Toro Rosso,19,\N,20,\N,0.0,Accident
+2017,17,985,United States Grand Prix,Circuit of the Americas,832,Carlos Sainz,4,Renault,7,7,7,5723935,6.0,Finished
+2017,18,986,Mexican Grand Prix,Autódromo Hermanos Rodríguez,832,Carlos Sainz,4,Renault,8,\N,16,\N,0.0,Engine
+2017,19,987,Brazilian Grand Prix,Autódromo José Carlos Pace,832,Carlos Sainz,4,Renault,8,11,11,\N,0.0,+1 Lap
+2017,20,988,Abu Dhabi Grand Prix,Yas Marina Circuit,832,Carlos Sainz,4,Renault,12,\N,19,\N,0.0,Wheel
+2018,1,989,Australian Grand Prix,Albert Park Grand Prix Circuit,832,Carlos Sainz,4,Renault,9,10,10,5419005,1.0,Finished
+2018,2,990,Bahrain Grand Prix,Bahrain International Circuit,832,Carlos Sainz,4,Renault,10,11,11,\N,0.0,+1 Lap
+2018,3,991,Chinese Grand Prix,Shanghai International Circuit,832,Carlos Sainz,4,Renault,9,9,9,5772143,2.0,Finished
+2018,4,992,Azerbaijan Grand Prix,Baku City Circuit,832,Carlos Sainz,4,Renault,9,5,5,6231806,10.0,Finished
+2018,5,993,Spanish Grand Prix,Circuit de Barcelona-Catalunya,832,Carlos Sainz,4,Renault,9,7,7,\N,6.0,+1 Lap
+2018,6,994,Monaco Grand Prix,Circuit de Monaco,832,Carlos Sainz,4,Renault,8,10,10,6243820,1.0,Finished
+2018,7,995,Canadian Grand Prix,Circuit Gilles Villeneuve,832,Carlos Sainz,4,Renault,9,8,8,\N,4.0,+1 Lap
+2018,8,996,French Grand Prix,Circuit Paul Ricard,832,Carlos Sainz,4,Renault,7,8,8,5498569,4.0,Finished
+2018,9,997,Austrian Grand Prix,Red Bull Ring,832,Carlos Sainz,4,Renault,9,12,12,\N,0.0,+1 Lap
+2018,10,998,British Grand Prix,Silverstone Circuit,832,Carlos Sainz,4,Renault,16,\N,17,\N,0.0,Collision
+2018,11,999,German Grand Prix,Hockenheimring,832,Carlos Sainz,4,Renault,8,12,12,5592914,0.0,Finished
+2018,12,1000,Hungarian Grand Prix,Hungaroring,832,Carlos Sainz,4,Renault,5,9,9,\N,2.0,+1 Lap
+2018,13,1001,Belgian Grand Prix,Circuit de Spa-Francorchamps,832,Carlos Sainz,4,Renault,14,11,11,\N,0.0,+1 Lap
+2018,14,1002,Italian Grand Prix,Autodromo Nazionale di Monza,832,Carlos Sainz,4,Renault,7,8,8,4692624,4.0,Finished
+2018,15,1003,Singapore Grand Prix,Marina Bay Street Circuit,832,Carlos Sainz,4,Renault,12,8,8,\N,4.0,+1 Lap
+2018,16,1004,Russian Grand Prix,Sochi Autodrom,832,Carlos Sainz,4,Renault,11,17,17,\N,0.0,+2 Laps
+2018,17,1005,Japanese Grand Prix,Suzuka Circuit,832,Carlos Sainz,4,Renault,13,10,10,\N,1.0,+1 Lap
+2018,18,1006,United States Grand Prix,Circuit of the Americas,832,Carlos Sainz,4,Renault,11,7,7,5753637,6.0,Finished
+2018,19,1007,Mexican Grand Prix,Autódromo Hermanos Rodríguez,832,Carlos Sainz,4,Renault,8,\N,19,\N,0.0,Suspension
+2018,20,1008,Brazilian Grand Prix,Autódromo José Carlos Pace,832,Carlos Sainz,4,Renault,15,12,12,\N,0.0,+1 Lap
+2018,21,1009,Abu Dhabi Grand Prix,Yas Marina Circuit,832,Carlos Sainz,4,Renault,11,6,6,6052930,8.0,Finished
+2019,1,1010,Australian Grand Prix,Albert Park Grand Prix Circuit,848,Alexander Albon,5,Toro Rosso,13,14,14,\N,0.0,+1 Lap
+2019,1,1010,Australian Grand Prix,Albert Park Grand Prix Circuit,832,Carlos Sainz,1,McLaren,18,\N,20,\N,0.0,Engine
+2019,2,1011,Bahrain Grand Prix,Bahrain International Circuit,848,Alexander Albon,5,Toro Rosso,12,9,9,5723992,2.0,Finished
+2019,2,1011,Bahrain Grand Prix,Bahrain International Circuit,832,Carlos Sainz,1,McLaren,7,\N,19,\N,0.0,Collision damage
+2019,3,1012,Chinese Grand Prix,Shanghai International Circuit,848,Alexander Albon,5,Toro Rosso,0,10,10,\N,1.0,+1 Lap
+2019,3,1012,Chinese Grand Prix,Shanghai International Circuit,832,Carlos Sainz,1,McLaren,14,14,14,\N,0.0,+1 Lap
+2019,4,1013,Azerbaijan Grand Prix,Baku City Circuit,832,Carlos Sainz,1,McLaren,9,7,7,5596768,6.0,Finished
+2019,4,1013,Azerbaijan Grand Prix,Baku City Circuit,848,Alexander Albon,5,Toro Rosso,11,11,11,\N,0.0,+1 Lap
+2019,5,1014,Spanish Grand Prix,Circuit de Barcelona-Catalunya,832,Carlos Sainz,1,McLaren,12,8,8,5782785,4.0,Finished
+2019,5,1014,Spanish Grand Prix,Circuit de Barcelona-Catalunya,848,Alexander Albon,5,Toro Rosso,11,11,11,5785888,0.0,Finished
+2019,6,1015,Monaco Grand Prix,Circuit de Monaco,832,Carlos Sainz,1,McLaren,9,6,6,6261891,8.0,Finished
+2019,6,1015,Monaco Grand Prix,Circuit de Monaco,848,Alexander Albon,5,Toro Rosso,10,8,8,6263637,4.0,Finished
+2019,7,1016,Canadian Grand Prix,Circuit Gilles Villeneuve,832,Carlos Sainz,1,McLaren,11,11,11,\N,0.0,+1 Lap
+2019,7,1016,Canadian Grand Prix,Circuit Gilles Villeneuve,848,Alexander Albon,5,Toro Rosso,13,\N,19,\N,0.0,Collision damage
+2019,8,1017,French Grand Prix,Circuit Paul Ricard,832,Carlos Sainz,1,McLaren,6,6,6,5166660,8.0,Finished
+2019,8,1017,French Grand Prix,Circuit Paul Ricard,848,Alexander Albon,5,Toro Rosso,11,15,15,\N,0.0,+1 Lap
+2019,9,1018,Austrian Grand Prix,Red Bull Ring,832,Carlos Sainz,1,McLaren,19,8,8,\N,4.0,+1 Lap
+2019,9,1018,Austrian Grand Prix,Red Bull Ring,848,Alexander Albon,5,Toro Rosso,18,15,15,\N,0.0,+1 Lap
+2019,10,1019,British Grand Prix,Silverstone Circuit,832,Carlos Sainz,1,McLaren,13,6,6,4922091,8.0,Finished
+2019,10,1019,British Grand Prix,Silverstone Circuit,848,Alexander Albon,5,Toro Rosso,9,12,12,4944069,0.0,Finished
+2019,11,1020,German Grand Prix,Hockenheimring,832,Carlos Sainz,1,McLaren,7,5,5,6280858,10.0,Finished
+2019,11,1020,German Grand Prix,Hockenheimring,848,Alexander Albon,5,Toro Rosso,16,6,6,6281327,8.0,Finished
+2019,12,1021,Hungarian Grand Prix,Hungaroring,832,Carlos Sainz,1,McLaren,8,5,5,\N,10.0,+1 Lap
+2019,12,1021,Hungarian Grand Prix,Hungaroring,848,Alexander Albon,5,Toro Rosso,12,10,10,\N,1.0,+1 Lap
+2019,13,1022,Belgian Grand Prix,Circuit de Spa-Francorchamps,848,Alexander Albon,9,Red Bull,17,5,5,5107035,10.0,Finished
+2019,13,1022,Belgian Grand Prix,Circuit de Spa-Francorchamps,832,Carlos Sainz,1,McLaren,15,\N,19,\N,0.0,Power loss
+2019,14,1023,Italian Grand Prix,Autodromo Nazionale di Monza,848,Alexander Albon,9,Red Bull,8,6,6,4585980,8.0,Finished
+2019,14,1023,Italian Grand Prix,Autodromo Nazionale di Monza,832,Carlos Sainz,1,McLaren,7,\N,20,\N,0.0,Wheel
+2019,15,1024,Singapore Grand Prix,Marina Bay Street Circuit,848,Alexander Albon,9,Red Bull,6,6,6,7125330,8.0,Finished
+2019,15,1024,Singapore Grand Prix,Marina Bay Street Circuit,832,Carlos Sainz,1,McLaren,7,12,12,7149641,0.0,Finished
+2019,16,1025,Russian Grand Prix,Sochi Autodrom,848,Alexander Albon,9,Red Bull,0,5,5,5657340,10.0,Finished
+2019,16,1025,Russian Grand Prix,Sochi Autodrom,832,Carlos Sainz,1,McLaren,5,6,6,5664881,8.0,Finished
+2019,17,1026,Japanese Grand Prix,Suzuka Circuit,848,Alexander Albon,9,Red Bull,6,4,4,4966292,12.0,Finished
+2019,17,1026,Japanese Grand Prix,Suzuka Circuit,832,Carlos Sainz,1,McLaren,7,5,5,4975856,10.0,Finished
+2019,18,1027,Mexican Grand Prix,Autódromo Hermanos Rodríguez,848,Alexander Albon,9,Red Bull,5,5,5,5830303,10.0,Finished
+2019,18,1027,Mexican Grand Prix,Autódromo Hermanos Rodríguez,832,Carlos Sainz,1,McLaren,7,13,13,\N,0.0,+1 Lap
+2019,19,1028,United States Grand Prix,Circuit of the Americas,848,Alexander Albon,9,Red Bull,6,5,5,5713691,10.0,Finished
+2019,19,1028,United States Grand Prix,Circuit of the Americas,832,Carlos Sainz,1,McLaren,7,8,8,\N,4.0,+1 Lap
+2019,20,1029,Brazilian Grand Prix,Autódromo José Carlos Pace,832,Carlos Sainz,1,McLaren,20,3,3,5603574,15.0,Finished
+2019,20,1029,Brazilian Grand Prix,Autódromo José Carlos Pace,848,Alexander Albon,9,Red Bull,5,14,14,5609605,0.0,Finished
+2019,21,1030,Abu Dhabi Grand Prix,Yas Marina Circuit,848,Alexander Albon,9,Red Bull,5,6,6,5714920,8.0,Finished
+2019,21,1030,Abu Dhabi Grand Prix,Yas Marina Circuit,832,Carlos Sainz,1,McLaren,8,10,10,\N,1.0,+1 Lap
+2020,1,1031,Austrian Grand Prix,Red Bull Ring,832,Carlos Sainz,1,McLaren,8,5,5,5464642,10.0,Finished
+2020,1,1031,Austrian Grand Prix,Red Bull Ring,848,Alexander Albon,9,Red Bull,4,13,13,\N,0.0,Electronics
+2020,2,1032,Styrian Grand Prix,Red Bull Ring,848,Alexander Albon,9,Red Bull,6,4,4,5015083,12.0,Finished
+2020,2,1032,Styrian Grand Prix,Red Bull Ring,832,Carlos Sainz,1,McLaren,3,9,9,\N,3.0,+1 Lap
+2020,3,1033,Hungarian Grand Prix,Hungaroring,848,Alexander Albon,9,Red Bull,13,5,5,5850789,10.0,Finished
+2020,3,1033,Hungarian Grand Prix,Hungaroring,832,Carlos Sainz,1,McLaren,9,9,9,\N,2.0,+1 Lap
+2020,4,1034,British Grand Prix,Silverstone Circuit,848,Alexander Albon,9,Red Bull,12,8,8,5313953,4.0,Finished
+2020,4,1034,British Grand Prix,Silverstone Circuit,832,Carlos Sainz,1,McLaren,7,13,13,5334653,0.0,Finished
+2020,5,1035,70th Anniversary Grand Prix,Silverstone Circuit,848,Alexander Albon,9,Red Bull,9,5,5,4821139,10.0,Finished
+2020,5,1035,70th Anniversary Grand Prix,Silverstone Circuit,832,Carlos Sainz,1,McLaren,12,13,13,4856063,0.0,Finished
+2020,6,1036,Spanish Grand Prix,Circuit de Barcelona-Catalunya,832,Carlos Sainz,1,McLaren,7,6,6,\N,8.0,+1 Lap
+2020,6,1036,Spanish Grand Prix,Circuit de Barcelona-Catalunya,848,Alexander Albon,9,Red Bull,6,8,8,\N,4.0,+1 Lap
+2020,7,1037,Belgian Grand Prix,Circuit de Spa-Francorchamps,848,Alexander Albon,9,Red Bull,5,6,6,5091473,8.0,Finished
+2020,7,1037,Belgian Grand Prix,Circuit de Spa-Francorchamps,832,Carlos Sainz,1,McLaren,7,\N,20,\N,0.0,Exhaust
+2020,8,1038,Italian Grand Prix,Autodromo Nazionale di Monza,832,Carlos Sainz,1,McLaren,3,2,2,6426471,18.0,Finished
+2020,8,1038,Italian Grand Prix,Autodromo Nazionale di Monza,848,Alexander Albon,9,Red Bull,9,15,15,6463589,0.0,Finished
+2020,9,1039,Tuscan Grand Prix,Autodromo Internazionale del Mugello,848,Alexander Albon,9,Red Bull,4,3,3,8383124,15.0,Finished
+2020,9,1039,Tuscan Grand Prix,Autodromo Internazionale del Mugello,832,Carlos Sainz,1,McLaren,9,\N,18,\N,0.0,Collision
+2020,10,1040,Russian Grand Prix,Sochi Autodrom,848,Alexander Albon,9,Red Bull,15,10,10,5738224,1.0,Finished
+2020,10,1040,Russian Grand Prix,Sochi Autodrom,832,Carlos Sainz,1,McLaren,6,\N,19,\N,0.0,Accident
+2020,11,1041,Eifel Grand Prix,Nürburgring,832,Carlos Sainz,1,McLaren,10,5,5,5771546,10.0,Finished
+2020,11,1041,Eifel Grand Prix,Nürburgring,848,Alexander Albon,9,Red Bull,5,\N,17,\N,0.0,Radiator
+2020,12,1042,Portuguese Grand Prix,Autódromo Internacional do Algarve,832,Carlos Sainz,1,McLaren,7,6,6,\N,8.0,+1 Lap
+2020,12,1042,Portuguese Grand Prix,Autódromo Internacional do Algarve,848,Alexander Albon,9,Red Bull,6,12,12,\N,0.0,+1 Lap
+2020,13,1043,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,832,Carlos Sainz,1,McLaren,10,7,7,5332660,6.0,Finished
+2020,13,1043,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,848,Alexander Albon,9,Red Bull,6,15,15,5369714,0.0,Finished
+2020,14,1044,Turkish Grand Prix,Istanbul Park,832,Carlos Sainz,1,McLaren,15,5,5,6173676,10.0,Finished
+2020,14,1044,Turkish Grand Prix,Istanbul Park,848,Alexander Albon,9,Red Bull,4,7,7,6185797,6.0,Finished
+2020,15,1045,Bahrain Grand Prix,Bahrain International Circuit,848,Alexander Albon,9,Red Bull,4,3,3,10795520,15.0,Finished
+2020,15,1045,Bahrain Grand Prix,Bahrain International Circuit,832,Carlos Sainz,1,McLaren,15,5,5,10799302,10.0,Finished
+2020,16,1046,Sakhir Grand Prix,Bahrain International Circuit,832,Carlos Sainz,1,McLaren,8,4,4,5487694,12.0,Finished
+2020,16,1046,Sakhir Grand Prix,Bahrain International Circuit,848,Alexander Albon,9,Red Bull,12,6,6,5488956,8.0,Finished
+2020,17,1047,Abu Dhabi Grand Prix,Yas Marina Circuit,848,Alexander Albon,9,Red Bull,5,4,4,5808632,12.0,Finished
+2020,17,1047,Abu Dhabi Grand Prix,Yas Marina Circuit,832,Carlos Sainz,1,McLaren,6,6,6,5854307,8.0,Finished
+2021,1,1052,Bahrain Grand Prix,Bahrain International Circuit,832,Carlos Sainz,6,Ferrari,8,8,8,5590997,4.0,Finished
+2021,2,1053,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,832,Carlos Sainz,6,Ferrari,11,5,5,7381634,10.0,Finished
+2021,3,1054,Portuguese Grand Prix,Autódromo Internacional do Algarve,832,Carlos Sainz,6,Ferrari,5,11,11,5750376,0.0,Finished
+2021,4,1055,Spanish Grand Prix,Circuit de Barcelona-Catalunya,832,Carlos Sainz,6,Ferrari,6,7,7,5662350,6.0,Finished
+2021,5,1056,Monaco Grand Prix,Circuit de Monaco,832,Carlos Sainz,6,Ferrari,4,2,2,5945788,18.0,Finished
+2021,6,1057,Azerbaijan Grand Prix,Baku City Circuit,832,Carlos Sainz,6,Ferrari,5,8,8,8024119,4.0,Finished
+2021,7,1059,French Grand Prix,Circuit Paul Ricard,832,Carlos Sainz,6,Ferrari,5,11,11,5345107,0.0,Finished
+2021,8,1058,Styrian Grand Prix,Red Bull Ring,832,Carlos Sainz,6,Ferrari,12,6,6,\N,8.0,+1 Lap
+2021,9,1060,Austrian Grand Prix,Red Bull Ring,832,Carlos Sainz,6,Ferrari,10,5,5,5091687,10.0,Finished
+2021,10,1061,British Grand Prix,Silverstone Circuit,832,Carlos Sainz,6,Ferrari,10,6,6,7146738,8.0,Finished
+2021,11,1062,Hungarian Grand Prix,Hungaroring,832,Carlos Sainz,6,Ferrari,15,3,3,7498217,15.0,Finished
+2021,12,1063,Belgian Grand Prix,Circuit de Spa-Francorchamps,832,Carlos Sainz,6,Ferrari,11,10,10,223237,0.5,Finished
+2021,13,1064,Dutch Grand Prix,Circuit Park Zandvoort,832,Carlos Sainz,6,Ferrari,6,7,7,\N,6.0,+1 Lap
+2021,14,1065,Italian Grand Prix,Autodromo Nazionale di Monza,832,Carlos Sainz,6,Ferrari,6,6,6,4924900,8.0,Finished
+2021,15,1066,Russian Grand Prix,Sochi Autodrom,832,Carlos Sainz,6,Ferrari,2,3,3,5503476,15.0,Finished
+2021,16,1067,Turkish Grand Prix,Istanbul Park,832,Carlos Sainz,6,Ferrari,19,8,8,5515629,4.0,Finished
+2021,17,1069,United States Grand Prix,Circuit of the Americas,832,Carlos Sainz,6,Ferrari,5,7,7,5760097,6.0,Finished
+2021,18,1070,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,832,Carlos Sainz,6,Ferrari,6,6,6,\N,8.0,+1 Lap
+2021,19,1071,São Paulo Grand Prix,Autódromo José Carlos Pace,832,Carlos Sainz,6,Ferrari,3,6,6,5594671,8.0,Finished
+2021,20,1051,Qatar Grand Prix,Losail International Circuit,832,Carlos Sainz,6,Ferrari,5,7,7,5150382,6.0,Finished
+2021,21,1072,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,832,Carlos Sainz,6,Ferrari,15,8,8,7621724,4.0,Finished
+2021,22,1073,Abu Dhabi Grand Prix,Yas Marina Circuit,832,Carlos Sainz,6,Ferrari,5,3,3,5422518,15.0,Finished
+2022,1,1074,Bahrain Grand Prix,Bahrain International Circuit,832,Carlos Sainz,6,Ferrari,3,2,2,5859182,18.0,Finished
+2022,1,1074,Bahrain Grand Prix,Bahrain International Circuit,848,Alexander Albon,3,Williams,14,13,13,5907516,0.0,Finished
+2022,2,1075,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,832,Carlos Sainz,6,Ferrari,3,3,3,5067390,15.0,Finished
+2022,2,1075,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,848,Alexander Albon,3,Williams,16,14,14,\N,0.0,Collision damage
+2022,3,1076,Australian Grand Prix,Albert Park Grand Prix Circuit,848,Alexander Albon,3,Williams,20,10,10,5345930,1.0,Finished
+2022,3,1076,Australian Grand Prix,Albert Park Grand Prix Circuit,832,Carlos Sainz,6,Ferrari,9,\N,20,\N,0.0,Spun off
+2022,4,1077,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,848,Alexander Albon,3,Williams,18,11,11,\N,0.0,+1 Lap
+2022,4,1077,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,832,Carlos Sainz,6,Ferrari,4,\N,20,\N,0.0,Collision
+2022,5,1078,Miami Grand Prix,Miami International Autodrome,832,Carlos Sainz,6,Ferrari,2,3,3,5672487,15.0,Finished
+2022,5,1078,Miami Grand Prix,Miami International Autodrome,848,Alexander Albon,3,Williams,18,9,9,5696623,2.0,Finished
+2022,6,1079,Spanish Grand Prix,Circuit de Barcelona-Catalunya,832,Carlos Sainz,6,Ferrari,3,4,4,5885683,12.0,Finished
+2022,6,1079,Spanish Grand Prix,Circuit de Barcelona-Catalunya,848,Alexander Albon,3,Williams,18,18,18,\N,0.0,+2 Laps
+2022,7,1080,Monaco Grand Prix,Circuit de Monaco,832,Carlos Sainz,6,Ferrari,2,2,2,6991419,18.0,Finished
+2022,7,1080,Monaco Grand Prix,Circuit de Monaco,848,Alexander Albon,3,Williams,16,\N,18,\N,0.0,Mechanical
+2022,8,1081,Azerbaijan Grand Prix,Baku City Circuit,848,Alexander Albon,3,Williams,17,12,12,\N,0.0,+1 Lap
+2022,8,1081,Azerbaijan Grand Prix,Baku City Circuit,832,Carlos Sainz,6,Ferrari,4,\N,20,\N,0.0,Hydraulics
+2022,9,1082,Canadian Grand Prix,Circuit Gilles Villeneuve,832,Carlos Sainz,6,Ferrari,3,2,2,5782750,19.0,Finished
+2022,9,1082,Canadian Grand Prix,Circuit Gilles Villeneuve,848,Alexander Albon,3,Williams,12,13,13,5826650,0.0,Finished
+2022,10,1083,British Grand Prix,Silverstone Circuit,832,Carlos Sainz,6,Ferrari,1,1,1,8270311,25.0,Finished
+2022,10,1083,British Grand Prix,Silverstone Circuit,848,Alexander Albon,3,Williams,16,\N,20,\N,0.0,Collision
+2022,11,1084,Austrian Grand Prix,Red Bull Ring,848,Alexander Albon,3,Williams,15,12,12,\N,0.0,+1 Lap
+2022,11,1084,Austrian Grand Prix,Red Bull Ring,832,Carlos Sainz,6,Ferrari,3,\N,18,\N,0.0,Power Unit
+2022,12,1085,French Grand Prix,Circuit Paul Ricard,832,Carlos Sainz,6,Ferrari,19,5,5,5430984,11.0,Finished
+2022,12,1085,French Grand Prix,Circuit Paul Ricard,848,Alexander Albon,3,Williams,13,13,13,5470677,0.0,Finished
+2022,13,1086,Hungarian Grand Prix,Hungaroring,832,Carlos Sainz,6,Ferrari,2,4,4,5990491,12.0,Finished
+2022,13,1086,Hungarian Grand Prix,Hungaroring,848,Alexander Albon,3,Williams,17,17,17,\N,0.0,+1 Lap
+2022,14,1087,Belgian Grand Prix,Circuit de Spa-Francorchamps,832,Carlos Sainz,6,Ferrari,1,3,3,5179780,15.0,Finished
+2022,14,1087,Belgian Grand Prix,Circuit de Spa-Francorchamps,848,Alexander Albon,3,Williams,6,10,10,5254794,1.0,Finished
+2022,15,1088,Dutch Grand Prix,Circuit Park Zandvoort,832,Carlos Sainz,6,Ferrari,3,8,8,5823689,4.0,Finished
+2022,15,1088,Dutch Grand Prix,Circuit Park Zandvoort,848,Alexander Albon,3,Williams,15,12,12,5833163,0.0,Finished
+2022,16,1089,Italian Grand Prix,Autodromo Nazionale di Monza,832,Carlos Sainz,6,Ferrari,18,4,4,4832572,12.0,Finished
+2022,17,1091,Singapore Grand Prix,Marina Bay Street Circuit,832,Carlos Sainz,6,Ferrari,4,3,3,7350543,15.0,Finished
+2022,17,1091,Singapore Grand Prix,Marina Bay Street Circuit,848,Alexander Albon,3,Williams,18,\N,17,\N,0.0,Collision damage
+2022,18,1092,Japanese Grand Prix,Suzuka Circuit,832,Carlos Sainz,6,Ferrari,3,\N,19,\N,0.0,Accident
+2022,18,1092,Japanese Grand Prix,Suzuka Circuit,848,Alexander Albon,3,Williams,16,\N,20,\N,0.0,Hydraulics
+2022,19,1093,United States Grand Prix,Circuit of the Americas,848,Alexander Albon,3,Williams,8,13,13,6211744,0.0,Finished
+2022,19,1093,United States Grand Prix,Circuit of the Americas,832,Carlos Sainz,6,Ferrari,1,\N,20,\N,0.0,Collision damage
+2022,20,1094,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,832,Carlos Sainz,6,Ferrari,5,5,5,5974852,10.0,Finished
+2022,20,1094,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,848,Alexander Albon,3,Williams,17,12,12,\N,0.0,+1 Lap
+2022,21,1095,São Paulo Grand Prix,Autódromo José Carlos Pace,832,Carlos Sainz,6,Ferrari,7,3,3,5918095,15.0,Finished
+2022,21,1095,São Paulo Grand Prix,Autódromo José Carlos Pace,848,Alexander Albon,3,Williams,19,15,15,5950060,0.0,Finished
+2022,22,1096,Abu Dhabi Grand Prix,Yas Marina Circuit,832,Carlos Sainz,6,Ferrari,4,4,4,5290806,12.0,Finished
+2022,22,1096,Abu Dhabi Grand Prix,Yas Marina Circuit,848,Alexander Albon,3,Williams,19,13,13,\N,0.0,+1 Lap
+2023,1,1098,Bahrain Grand Prix,Bahrain International Circuit,832,Carlos Sainz,6,Ferrari,4,4,4,5684788,12.0,Finished
+2023,1,1098,Bahrain Grand Prix,Bahrain International Circuit,848,Alexander Albon,3,Williams,15,10,10,5726510,1.0,Finished
+2023,2,1099,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,832,Carlos Sainz,6,Ferrari,4,6,6,4910770,8.0,Finished
+2023,2,1099,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,848,Alexander Albon,3,Williams,17,\N,19,\N,0.0,Brakes
+2023,3,1100,Australian Grand Prix,Albert Park Grand Prix Circuit,832,Carlos Sainz,6,Ferrari,5,12,12,9164965,0.0,Finished
+2023,3,1100,Australian Grand Prix,Albert Park Grand Prix Circuit,848,Alexander Albon,3,Williams,8,\N,19,\N,0.0,Accident
+2023,4,1101,Azerbaijan Grand Prix,Baku City Circuit,832,Carlos Sainz,6,Ferrari,4,5,5,5607927,10.0,Finished
+2023,4,1101,Azerbaijan Grand Prix,Baku City Circuit,848,Alexander Albon,3,Williams,12,12,12,5651059,0.0,Finished
+2023,5,1102,Miami Grand Prix,Miami International Autodrome,832,Carlos Sainz,6,Ferrari,3,5,5,5300752,10.0,Finished
+2023,5,1102,Miami Grand Prix,Miami International Autodrome,848,Alexander Albon,3,Williams,11,14,14,5331102,0.0,Finished
+2023,6,1104,Monaco Grand Prix,Circuit de Monaco,832,Carlos Sainz,6,Ferrari,4,8,8,6595371,4.0,Finished
+2023,6,1104,Monaco Grand Prix,Circuit de Monaco,848,Alexander Albon,3,Williams,13,14,14,\N,0.0,+1 Lap
+2023,7,1105,Spanish Grand Prix,Circuit de Barcelona-Catalunya,832,Carlos Sainz,6,Ferrari,2,5,5,5323638,10.0,Finished
+2023,7,1105,Spanish Grand Prix,Circuit de Barcelona-Catalunya,848,Alexander Albon,3,Williams,18,16,16,\N,0.0,+1 Lap
+2023,8,1106,Canadian Grand Prix,Circuit Gilles Villeneuve,832,Carlos Sainz,6,Ferrari,11,5,5,5659888,10.0,Finished
+2023,8,1106,Canadian Grand Prix,Circuit Gilles Villeneuve,848,Alexander Albon,3,Williams,9,7,7,5699161,6.0,Finished
+2023,9,1107,Austrian Grand Prix,Red Bull Ring,832,Carlos Sainz,6,Ferrari,3,6,6,5164984,8.0,Finished
+2023,9,1107,Austrian Grand Prix,Red Bull Ring,848,Alexander Albon,3,Williams,10,11,11,5213374,0.0,Finished
+2023,10,1108,British Grand Prix,Silverstone Circuit,848,Alexander Albon,3,Williams,8,8,8,5134816,4.0,Finished
+2023,10,1108,British Grand Prix,Silverstone Circuit,832,Carlos Sainz,6,Ferrari,5,10,10,5136386,1.0,Finished
+2023,11,1109,Hungarian Grand Prix,Hungaroring,832,Carlos Sainz,6,Ferrari,11,8,8,5959707,4.0,Finished
+2023,11,1109,Hungarian Grand Prix,Hungaroring,848,Alexander Albon,3,Williams,16,11,11,\N,0.0,+1 Lap
+2023,12,1110,Belgian Grand Prix,Circuit de Spa-Francorchamps,848,Alexander Albon,3,Williams,15,14,14,5046634,0.0,Finished
+2023,12,1110,Belgian Grand Prix,Circuit de Spa-Francorchamps,832,Carlos Sainz,6,Ferrari,4,\N,19,\N,0.0,Collision damage
+2023,13,1111,Dutch Grand Prix,Circuit Park Zandvoort,832,Carlos Sainz,6,Ferrari,6,5,5,8656952,10.0,Finished
+2023,13,1111,Dutch Grand Prix,Circuit Park Zandvoort,848,Alexander Albon,3,Williams,4,8,8,8659566,4.0,Finished
+2023,14,1112,Italian Grand Prix,Autodromo Nazionale di Monza,832,Carlos Sainz,6,Ferrari,1,3,3,4432336,15.0,Finished
+2023,14,1112,Italian Grand Prix,Autodromo Nazionale di Monza,848,Alexander Albon,3,Williams,6,7,7,4466249,6.0,Finished
+2023,15,1113,Singapore Grand Prix,Marina Bay Street Circuit,832,Carlos Sainz,6,Ferrari,1,1,1,6397418,25.0,Finished
+2023,15,1113,Singapore Grand Prix,Marina Bay Street Circuit,848,Alexander Albon,3,Williams,14,11,11,6470835,0.0,Finished
+2023,16,1114,Japanese Grand Prix,Suzuka Circuit,832,Carlos Sainz,6,Ferrari,6,6,6,5508642,8.0,Finished
+2023,16,1114,Japanese Grand Prix,Suzuka Circuit,848,Alexander Albon,3,Williams,13,\N,16,\N,0.0,Collision damage
+2023,17,1115,Qatar Grand Prix,Losail International Circuit,848,Alexander Albon,3,Williams,13,13,13,5350182,0.0,Finished
+2023,17,1115,Qatar Grand Prix,Losail International Circuit,832,Carlos Sainz,6,Ferrari,12,\N,20,\N,0.0,Fuel leak
+2023,18,1116,United States Grand Prix,Circuit of the Americas,832,Carlos Sainz,6,Ferrari,4,3,3,5736496,15.0,Finished
+2023,18,1116,United States Grand Prix,Circuit of the Americas,848,Alexander Albon,3,Williams,15,9,9,5808076,2.0,Finished
+2023,19,1117,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,832,Carlos Sainz,6,Ferrari,2,4,4,7377968,12.0,Finished
+2023,19,1117,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,848,Alexander Albon,3,Williams,14,9,9,7399387,2.0,Finished
+2023,20,1118,São Paulo Grand Prix,Autódromo José Carlos Pace,832,Carlos Sainz,6,Ferrari,7,6,6,7059082,8.0,Finished
+2023,20,1118,São Paulo Grand Prix,Autódromo José Carlos Pace,848,Alexander Albon,3,Williams,13,\N,19,\N,0.0,Collision
+2023,21,1119,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,832,Carlos Sainz,6,Ferrari,12,6,6,5369123,8.0,Finished
+2023,21,1119,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,848,Alexander Albon,3,Williams,5,12,12,5391687,0.0,Finished
+2023,22,1120,Abu Dhabi Grand Prix,Yas Marina Circuit,848,Alexander Albon,3,Williams,14,14,14,5295808,0.0,Finished
+2023,22,1120,Abu Dhabi Grand Prix,Yas Marina Circuit,832,Carlos Sainz,6,Ferrari,16,18,18,\N,0.0,Retired
+2024,1,1121,Bahrain Grand Prix,Bahrain International Circuit,832,Carlos Sainz,6,Ferrari,4,3,3,5529852,15.0,Finished
+2024,1,1121,Bahrain Grand Prix,Bahrain International Circuit,848,Alexander Albon,3,Williams,13,15,15,\N,0.0,+1 Lap
+2024,2,1122,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,848,Alexander Albon,3,Williams,12,11,11,4931627,0.0,Finished
+2024,3,1123,Australian Grand Prix,Albert Park Grand Prix Circuit,832,Carlos Sainz,6,Ferrari,2,1,1,4826843,25.0,Finished
+2024,3,1123,Australian Grand Prix,Albert Park Grand Prix Circuit,848,Alexander Albon,3,Williams,12,11,11,\N,0.0,+1 Lap
+2024,4,1124,Japanese Grand Prix,Suzuka Circuit,832,Carlos Sainz,6,Ferrari,4,3,3,6884432,15.0,Finished
+2024,4,1124,Japanese Grand Prix,Suzuka Circuit,848,Alexander Albon,3,Williams,14,\N,20,\N,0.0,Accident
+2024,5,1125,Chinese Grand Prix,Shanghai International Circuit,832,Carlos Sainz,6,Ferrari,7,5,5,6086537,10.0,Finished
+2024,5,1125,Chinese Grand Prix,Shanghai International Circuit,848,Alexander Albon,3,Williams,14,12,12,6118060,0.0,Finished
+2024,6,1126,Miami Grand Prix,Miami International Autodrome,832,Carlos Sainz,6,Ferrari,3,5,5,5466283,10.0,Finished
+2024,6,1126,Miami Grand Prix,Miami International Autodrome,848,Alexander Albon,3,Williams,14,18,18,5525967,0.0,Finished
+2024,7,1127,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,832,Carlos Sainz,6,Ferrari,4,5,5,5147577,10.0,Finished
+2024,7,1127,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,848,Alexander Albon,3,Williams,14,\N,20,\N,0.0,Retired
+2024,8,1128,Monaco Grand Prix,Circuit de Monaco,832,Carlos Sainz,6,Ferrari,3,3,3,8603139,15.0,Finished
+2024,8,1128,Monaco Grand Prix,Circuit de Monaco,848,Alexander Albon,3,Williams,9,9,9,\N,2.0,+1 Lap
+2024,9,1129,Canadian Grand Prix,Circuit Gilles Villeneuve,832,Carlos Sainz,6,Ferrari,12,\N,16,\N,0.0,Collision
+2024,9,1129,Canadian Grand Prix,Circuit Gilles Villeneuve,848,Alexander Albon,3,Williams,10,\N,17,\N,0.0,Collision
+2024,10,1130,Spanish Grand Prix,Circuit de Barcelona-Catalunya,832,Carlos Sainz,6,Ferrari,6,6,6,5331255,8.0,Finished
+2024,10,1130,Spanish Grand Prix,Circuit de Barcelona-Catalunya,848,Alexander Albon,3,Williams,0,18,18,\N,0.0,+1 Lap
+2024,11,1131,Austrian Grand Prix,Red Bull Ring,832,Carlos Sainz,6,Ferrari,4,3,3,5067331,15.0,Finished
+2024,11,1131,Austrian Grand Prix,Red Bull Ring,848,Alexander Albon,3,Williams,16,15,15,\N,0.0,+1 Lap
+2024,12,1132,British Grand Prix,Silverstone Circuit,832,Carlos Sainz,6,Ferrari,7,5,5,4994377,11.0,Finished
+2024,12,1132,British Grand Prix,Silverstone Circuit,848,Alexander Albon,3,Williams,9,9,9,5015446,2.0,Finished
+2024,13,1133,Hungarian Grand Prix,Hungaroring,832,Carlos Sainz,6,Ferrari,4,6,6,5905062,8.0,Finished
+2024,13,1133,Hungarian Grand Prix,Hungaroring,848,Alexander Albon,3,Williams,13,14,14,\N,0.0,+1 Lap
+2024,14,1134,Belgian Grand Prix,Circuit de Spa-Francorchamps,832,Carlos Sainz,6,Ferrari,7,6,6,20321,8.0,Finished
+2024,14,1134,Belgian Grand Prix,Circuit de Spa-Francorchamps,848,Alexander Albon,3,Williams,10,12,12,64177,0.0,Finished
+2024,15,1135,Dutch Grand Prix,Circuit Park Zandvoort,832,Carlos Sainz,6,Ferrari,10,5,5,5477656,10.0,Finished
+2024,15,1135,Dutch Grand Prix,Circuit Park Zandvoort,848,Alexander Albon,3,Williams,19,14,14,\N,0.0,+1 Lap
+2024,16,1136,Italian Grand Prix,Autodromo Nazionale di Monza,832,Carlos Sainz,6,Ferrari,5,4,4,4496348,12.0,Finished
+2024,16,1136,Italian Grand Prix,Autodromo Nazionale di Monza,848,Alexander Albon,3,Williams,9,9,9,4548183,2.0,Finished
+2024,17,1137,Azerbaijan Grand Prix,Baku City Circuit,848,Alexander Albon,3,Williams,9,7,7,5665403,6.0,Finished
+2024,17,1137,Azerbaijan Grand Prix,Baku City Circuit,832,Carlos Sainz,6,Ferrari,3,18,18,\N,0.0,Retired
+2024,18,1138,Singapore Grand Prix,Marina Bay Street Circuit,832,Carlos Sainz,6,Ferrari,10,7,7,6148610,6.0,Finished
+2024,18,1138,Singapore Grand Prix,Marina Bay Street Circuit,848,Alexander Albon,3,Williams,11,\N,20,\N,0.0,Power Unit
+2024,19,1139,United States Grand Prix,Circuit of the Americas,832,Carlos Sainz,6,Ferrari,3,2,2,5718201,18.0,Finished
+2024,19,1139,United States Grand Prix,Circuit of the Americas,848,Alexander Albon,3,Williams,14,16,16,\N,0.0,+1 Lap
+2024,20,1140,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,832,Carlos Sainz,6,Ferrari,1,1,1,6055800,25.0,Finished
+2024,20,1140,Mexico City Grand Prix,Autódromo Hermanos Rodríguez,848,Alexander Albon,3,Williams,9,\N,19,\N,0.0,Collision
+2024,21,1141,São Paulo Grand Prix,Autódromo José Carlos Pace,832,Carlos Sainz,6,Ferrari,0,\N,16,\N,0.0,Accident
+2024,21,1141,São Paulo Grand Prix,Autódromo José Carlos Pace,848,Alexander Albon,3,Williams,7,\N,18,\N,0.0,Withdrew
+2024,22,1142,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,832,Carlos Sainz,6,Ferrari,2,3,3,4937875,15.0,Finished
+2024,22,1142,Las Vegas Grand Prix,Las Vegas Strip Street Circuit,848,Alexander Albon,3,Williams,17,\N,19,\N,0.0,Radiator
+2024,23,1143,Qatar Grand Prix,Losail International Circuit,832,Carlos Sainz,6,Ferrari,7,6,6,5482799,8.0,Finished
+2024,23,1143,Qatar Grand Prix,Losail International Circuit,848,Alexander Albon,3,Williams,16,15,15,\N,0.0,+1 Lap
+2024,24,1144,Abu Dhabi Grand Prix,Yas Marina Circuit,832,Carlos Sainz,6,Ferrari,3,2,2,5199123,18.0,Finished
+2024,24,1144,Abu Dhabi Grand Prix,Yas Marina Circuit,848,Alexander Albon,3,Williams,18,11,11,\N,0.0,+1 Lap
+2025,1,1123,Australian Grand Prix,Albert Park Grand Prix Circuit,832,Carlos Sainz,3,Williams,10,\N,18,\N,0.0,Retired
+2025,1,1123,Australian Grand Prix,Albert Park Grand Prix Circuit,848,Alexander Albon,3,Williams,6,5,5,6137077,10.0,Finished
+2025,2,1125,Chinese Grand Prix,Shanghai International Circuit,832,Carlos Sainz,3,Williams,15,10,10,5531413,1.0,Finished
+2025,2,1125,Chinese Grand Prix,Shanghai International Circuit,848,Alexander Albon,3,Williams,10,7,7,5511347,6.0,Finished
+2025,3,1124,Japanese Grand Prix,Suzuka Circuit,832,Carlos Sainz,3,Williams,15,14,14,5001112,0.0,Finished
+2025,3,1124,Japanese Grand Prix,Suzuka Circuit,848,Alexander Albon,3,Williams,9,9,9,4967350,2.0,Finished
+2025,4,1121,Bahrain Grand Prix,Bahrain International Circuit,832,Carlos Sainz,3,Williams,8,\N,19,\N,0.0,Retired
+2025,4,1121,Bahrain Grand Prix,Bahrain International Circuit,848,Alexander Albon,3,Williams,15,12,12,5788274,0.0,Finished
+2025,5,1122,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,832,Carlos Sainz,3,Williams,6,8,8,4931388,4.0,Finished
+2025,5,1122,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,848,Alexander Albon,3,Williams,11,9,9,4933273,2.0,Finished
