@@ -2,7 +2,8 @@
 
 This project predicts Formula 1 drivers' race finishing positions using historical data from 2015 to 2025.
 
-(https://github.com/user-attachments/assets/69d4a8e0-cec6-49ad-8673-f0de5e7a0efe)
+https://cdn.williamsf1.tech/images/fnx611yr/production/a48e47a0f276acabdae2fe976776b8a16fdc721b-5185x3461.jpg?rect=0,534,5185,2927&w=1200&auto=format![image](https://github.com/user-attachments/assets/be5ce609-9f70-4528-b806-7bb0df32e973)
+
 
 
 
