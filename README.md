@@ -7,8 +7,5 @@ This project predicts Formula 1 drivers' race finishing positions using historic
 
 ## 🚀 Setup
 
-``bash
+```bash```
 pip install -r requirements.txt
-python scripts/data_import.py
-python scripts/feature_engineering.py
-python scripts/train_model.py
