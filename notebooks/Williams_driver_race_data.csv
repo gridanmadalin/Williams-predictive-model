@@ -322,3 +322,5 @@ year,round,raceId,race_name,circuit_name,driverId,driver_name,constructorId,cons
 2025,4,1121,Bahrain Grand Prix,Bahrain International Circuit,848,Alexander Albon,3,Williams,15,12,12,5788274,0.0,Finished
 2025,5,1122,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,832,Carlos Sainz,3,Williams,6,8,8,4931388,4.0,Finished
 2025,5,1122,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,848,Alexander Albon,3,Williams,11,9,9,4933273,2.0,Finished
+2025,6,1126,Miami Grand Prix,Miami International Autodrome,832,Carlos Sainz,3,Williams,6,9,9,5392164,2.0,Finished
+2025,6,1126,Miami Grand Prix,Miami International Autodrome,848,Alexander Albon,3,Williams,7,5,5,5379654,10.0,Finished
